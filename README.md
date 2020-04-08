@@ -15,7 +15,7 @@ git clone https://github.com/georgkaufmann/florian.git
 
 ## Run interactively with binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/florian.git/master?filepath=Florian.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/georgkaufmann/florian.git/master?filepath=index.ipynb)
 
 ## Versioning
 
